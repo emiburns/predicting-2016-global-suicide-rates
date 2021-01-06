@@ -11,8 +11,8 @@ Suicide is the 10th leading cause of death worldwide. With diverse
 biological and social determinants, suicidal behavior and ideation
 present a complex, global risk to public health across all age groups.
 
-This project stems off a personal interest in mental disorder’s role in
-public health, webscraping, and statistical modeling. The 2016
+This project stems off a personal interest in webscraping, statistical 
+modeling, and mental disorder’s role in public health. The 2016
 international suicide prevalence is examined through lenses of 2015
 mental disorder rates, unemployment, literacy, healthcare expenditure
 and gender ratios. Social factors potentially driving whether a country
@@ -70,7 +70,8 @@ individuals across the globe. CSV sourced from
 
 #### code/ folder
 
-**exploration/ subfolder** \* Files are numbered in chronological order
+**exploration/ subfolder** 
+*Files are numbered in chronological order*
 
   - *01\_data\_exploration.ipynb*: Markdown file of exploratory data
     analysis (EDA) results
@@ -78,7 +79,9 @@ individuals across the globe. CSV sourced from
   - *02\_model\_results.ipynb*: Markdown file of model results and their
     interpretation
 
-**script/ subfolder** \* *01\_do\_webscraping.py*- Code used to scrape
+**script/ subfolder**
+
+- *01\_do\_webscraping.py*- Code used to scrape
 and clean data from Wikipedia sources into a single, clean pandas data
 frame (see above project sources for Wikipedia page details)
 
