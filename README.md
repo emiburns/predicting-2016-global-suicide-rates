@@ -71,6 +71,7 @@ individuals across the globe. CSV sourced from
 #### code/ folder
 
 **exploration/ subfolder** 
+  
 *Files are numbered in chronological order*
 
   - *01\_data\_exploration.ipynb*: Markdown file of exploratory data
@@ -81,9 +82,9 @@ individuals across the globe. CSV sourced from
 
 **script/ subfolder**
 
-- *01\_do\_webscraping.py*- Code used to scrape
-and clean data from Wikipedia sources into a single, clean pandas data
-frame (see above project sources for Wikipedia page details)
+  - *01\_do\_webscraping.py*- Code used to scrape
+    and clean data from Wikipedia sources into a single, clean pandas data
+    frame (see above project sources for Wikipedia page details)
 
   - *02\_do\_data\_cleaning.py*- Code used to merge and clean scraped
     dataset and those pulled from alternative sources (see above section
